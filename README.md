@@ -3,12 +3,12 @@
 
 
 
-I am a recent graduate, privacy and information security advocate, with a passion and dedication for solving complex problems.
+Driven to a career in information security, by my curious mind, love for technologies and a passion for solving complex problems.
 
 ## Objective
 
 
-As a longtime privacy and security advocate, as well as a technology enthusiast and hobbyist, my journey has led me to pursue a career in Information Security, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. These labs are meant to document my experience, the "Why", the process, and skills learned. 
+Longtime technology enthusiast, hobbyist, & tinkerer, building homelab networking and security related projects.  My path has led me to pursue a career in Information Security. I will use this repo to help document my projects and my journey.
 
 ## Skills
 
@@ -28,7 +28,7 @@ As a longtime privacy and security advocate, as well as a technology enthusiast 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   <img src="https://img.shields.io/badge/-TCPDump-336791?&style=for-the-badge&logo=TCPDump&logoColor=white" />
+   <img src="https://img.shields.io/badge/-BurpSuite-8A2BE2?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -47,9 +47,9 @@ As a longtime privacy and security advocate, as well as a technology enthusiast 
 ## Certifications
 Currently studying for the CompTIA Security+ 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Antisyphon_by_Black_Hills_InfoSec-4A4A4A?&style=for-the-badge&logo=Antisyphon&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-FF0000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Antisyphon%20SOC%20Core%20Skills-4A4A4A?&style=for-the-badge&logo=Antisyphon&logoColor=white" />
+<img src="https://img.shields.io/badge/-EC--Council%20Ethical%20Hacker%20Essentials-4A4A4A?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 
 </div>
 
