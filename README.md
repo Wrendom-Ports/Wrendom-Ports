@@ -35,8 +35,8 @@ With over a decade of experience in the **Toronto and Vancouver Film & Televisio
 ### 🛠️ The Tactical Stack
 | Domain | Technologies |
 | :--- | :--- |
-| **Defensive Ops** | Wazuh SIEM, WireGuard, Nginx Reverse Proxies, Shield-to-Main VPS Topology |
-| **Virtualization** | RAM-only Alpine Linux, Windows RDP-to-HTML5 Bridging, PowerShell Core |
+| **Defensive Ops** | Wazuh SIEM, WireGuard, Nginx Reverse Proxies, multi geo-node VPS Topology |
+| **Virtualization** | RAM-only Linux Workstation Sessions, Windows RDP Browser based Sessions, PowerShell Core |
 | **Analysis** | Wireshark, BurpSuite, ELK Stack, Sysmon, Zeek |
 | **Industry Standard** | ISC2 CC, EC-Council EHE, ASL (American Sign Language) |
 
