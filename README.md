@@ -6,7 +6,7 @@
 ---
 
 ### 🛡️ The Doctrine: Ghost Pipe & The Wave Function
-> "If you can't find it, you can't hit it. If you hit it, it's already gone."
+> "If you can't see it, you can't hit it. If you hit it, it's already gone."
 
 I treat infrastructure as a **"Wave Function."** In my architecture, a system exists in a state of potential until authorized; upon unauthorized interaction or "observation," the field collapses and re-materializes at a new digital coordinate. 
 
