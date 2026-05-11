@@ -1,7 +1,6 @@
 # GHOST PORTS | Defensive Infrastructure & Architectural Intent
 
 **Lead Infrastructure Architect | Production Designer | Cybersecurity Professional**
-*Toronto ⇄ Vancouver*
 
 ---
 
