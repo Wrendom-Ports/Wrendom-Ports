@@ -11,9 +11,9 @@
 I treat infrastructure as a **"Wave Function."** In my architecture, a system exists in a state of potential until authorized; upon unauthorized interaction or "observation," the field collapses and re-materializes at a new digital coordinate. 
 
 * **Sub-Second MTTR:** Orchestrating an infrastructure with a **Mean Time To Recovery (MTTR) of < 1 second**.
-* **Rapid Spawn Cycles:** Leveraging high-speed binary state injections (134MB+) for sub-second persistence and **5Gbps+ aggregate throughput pipelines**.
-* **Sovereign VDI:** Architecting ephemeral, RAM-only compute environments that leave zero forensic footprint upon session termination.
-* **Moving Target Defense (MTD):** Infrastructure signature redaction (T1595) and automated Shield-Node rotation.
+* **Rapid Spawn Cycles:** Leveraging high-speed binary state injections (134MB+) for sub-second persistence. **The workspace is everywhere, and nowhere.**
+* **Sovereign VDI:** Architecting ephemeral, RAM-only compute environments that materialize on-demand and leave zero forensic footprint upon session termination.
+* **Moving Target Defense (MTD):** Infrastructure signature redaction (T1595) and automated Shield-Node rotation to ensure the target is never a static coordinate.
 
 ---
 
@@ -21,7 +21,7 @@ I treat infrastructure as a **"Wave Function."** In my architecture, a system ex
 With over a decade of experience in the **Toronto and Vancouver Film & Television** industries, I apply cinematic world-building to cybersecurity.
 
 * **Structural Intent:** Constructing digital environments with the same structural logic and forensic detail as a multi-million dollar production set.
-* **Adversarial Resilience:** A career built in high-pressure, fixed-deadline environments (**Fire Country**, etc.) where rapid pivots are the standard.
+* **Adversarial Resilience:** A career built in high-pressure, fixed-deadline environments (**Fire Country**, etc.) where rapid pivots are the standard and failure is not an option.
 
 ---
 
@@ -38,6 +38,6 @@ With over a decade of experience in the **Toronto and Vancouver Film & Televisio
 | **Defensive Ops** | Wazuh SIEM, WireGuard, Nginx Reverse Proxies, Shield-to-Main VPS Topology |
 | **Virtualization** | RAM-only Alpine Linux, Windows RDP-to-HTML5 Bridging, PowerShell Core |
 | **Analysis** | Wireshark, BurpSuite, ELK Stack, Sysmon, Zeek |
-| **Certifications** | ISC2 CC, EC-Council EHE, ASL (American Sign Language) |
+| **Industry Standard** | ISC2 CC, EC-Council EHE, ASL (American Sign Language) |
 
 ---
