@@ -19,8 +19,8 @@ I treat infrastructure as a **"Wave Function."** In my architecture, a system ex
 ### 🎬 Professional Convergence: Design Meets Defense
 With over a decade of experience in the **Toronto and Vancouver Film & Television** industries, I apply cinematic world-building and spatial linguistics to the frontier of cybersecurity.
 
-* **Structural Intent:** Constructing digital environments with the same structural logic and forensic detail as a multi-million dollar production set. If it doesn't make sense architecturally, it isn't secure.
-* **Adversarial Resilience:** A career built in high-pressure, fixed-deadline environments (**Fire Country**, etc.) where rapid pivots are the standard and failure is not an option.
+* **Structural Intent:** I approach network architecture as a Production Designer—viewing digital environments through the lens of spatial flow, boundary logic, and environmental storytelling. True security is found in the deliberate arrangement of every node and port.
+* **Adversarial Resilience:** A career built in high-pressure, fixed-deadline environments (**Fire Country**, **DC's Legends of Tomorrow**, etc.) where rapid pivots are the standard, timelines are non-negotiable, and failure is not an option.
 * **Spatial Mapping (ASL Fluency):** My fluency in **American Sign Language** provides a unique cognitive edge in architectural visualization. I map network topologies and "Ghost Pipe" infrastructure as 3D environments, allowing for a deeper understanding of multi-dimensional defense and data flow.
 * **Cross-Cultural Communication:** Experience in Deaf culture and community tutoring has honed a unique ability to bridge complex communication gaps—translating high-level technical "redaction" into clear, inclusive, and accessible narratives for stakeholders.
 
@@ -40,3 +40,5 @@ With over a decade of experience in the **Toronto and Vancouver Film & Televisio
 | **Virtualization** | RAM-only Linux Workstation Sessions, Windows RDP Browser based Sessions, PowerShell Core |
 | **Analysis** | Wireshark, BurpSuite, ELK Stack, Sysmon, Zeek |
 | **Industry Standard** | ISC2 CC, EC-Council EHE, ASL (American Sign Language) |
+
+---
