@@ -12,12 +12,12 @@ I treat infrastructure as a **"Wave Function."** In my architecture, a system ex
 * **Sub-Second MTTR:** Orchestrating an infrastructure with a **Mean Time To Recovery (MTTR) of < 1 second**.
 * **Rapid Spawn Cycles:** Leveraging high-speed state injections for sub-second persistence. **The workspace is everywhere, and nowhere.**
 * **Sovereign VDI:** Architecting ephemeral, RAM-only compute environments that materialize on-demand and leave zero forensic footprint upon session termination.
-* **Moving Target Defense (MTD):** Infrastructure signature redaction (T1595) and automated Shield-Node rotation to ensure the target is never a static coordinate.
+* **Moving Target Defense (MTD):** Infrastructure signature redaction (T1595) and automated multi-node rotation to ensure the target is never a static coordinate.
 
 ---
 
 ### 🎬 Professional Convergence: Design Meets Defense
-With over a decade of experience in the **Toronto and Vancouver Film & Television** industries, I apply cinematic world-building and spatial linguistics to the frontier of cybersecurity.
+With over a decade of experience in the **Toronto and Vancouver Film & Television** industries, and an Honours Associates Degree in American Sign Language, I apply cinematic world-building and spatial linguistics to the frontier of cybersecurity.
 
 * **Structural Intent:** I approach network architecture as a Production Designer—viewing digital environments through the lens of spatial flow, boundary logic, and environmental storytelling. True security is found in the deliberate arrangement of every node and port.
 * **Adversarial Resilience:** A career built in high-pressure, fixed-deadline environments (**Fire Country**, **DC's Legends of Tomorrow**, etc.) where rapid pivots are the standard, timelines are non-negotiable, and failure is not an option.
