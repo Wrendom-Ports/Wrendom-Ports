@@ -17,7 +17,7 @@ I treat infrastructure as a **"Wave Function."** In my architecture, a system ex
 ---
 
 ### 🎬 Professional Convergence: Design Meets Defense
-With over a decade of experience in the **Toronto and Vancouver Film & Television** industries, and an Honours Associates Degree in American Sign Language, I apply cinematic world-building and spatial linguistics to the frontier of cybersecurity.
+With over a decade of experience in the **Toronto and Vancouver Film & Television** industries, and an Honours Associates Degree in American Sign Language & Deaf Culture, I apply cinematic world-building and spatial linguistics to the frontier of cybersecurity.
 
 * **Structural Intent:** I approach network architecture as a Production Designer—viewing digital environments through the lens of spatial flow, boundary logic, and environmental storytelling. True security is found in the deliberate arrangement of every node and port.
 * **Adversarial Resilience:** A career built in high-pressure, fixed-deadline environments (**Fire Country**, **DC's Legends of Tomorrow**, etc.) where rapid pivots are the standard, timelines are non-negotiable, and failure is not an option.
