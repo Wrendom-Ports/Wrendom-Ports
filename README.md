@@ -8,7 +8,7 @@
 
 I treat infrastructure as a **"Wave Function."** In my architecture, a system exists in a state of potential until authorized; upon unauthorized interaction or "observation," the field collapses and re-materializes at a new digital coordinate.
 
-* **Sub-Second MTTR:** Orchestrating an infrastructure with a **Mean Time To Recovery (MTTR) of <1s**.
+* **Quick MTTR:** Orchestrating an infrastructure with a **Mean Time To Recovery (MTTR) of <30s**.
 * **Rapid Spawn Cycles:** Leveraging high-speed state injections for sub-second persistence. The workspace is everywhere, and nowhere.
 * **Sovereign VDI:** Architecting remote compute environments for the workplace that materialize on-demand and leave zero forensic footprint upon session termination.
 * **Moving Target Defense (MTD):** Infrastructure signature redaction (T1595) and automated multi-node rotation to ensure the target is never a static coordinate.
