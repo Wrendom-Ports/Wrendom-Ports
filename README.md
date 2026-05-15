@@ -27,7 +27,7 @@ With over a decade of experience in the **Toronto and Vancouver Film & Televisio
 ---
 
 ### 📡 Current Operations
-* **The Ghost Ports Collective:** Founding a boutique vCISO/vMSP focused on ghosted, private tunnel architectures.
+* **The Ghost Ports Collective:** Founding a boutique collective of InfoSec professionals who are passionate about creating invisible, secure, & private architectures.
 * **The Construct:** Engineering a City of Toronto mapped network topology for narrative-driven, high-fidelity defensive training, utilizing the popular urban city landscape as visual 3D Anchors
 * **Hands United:** Leveraging **ASL fluency** to provide volunteer technical tutoring for the Deaf and Hard of Hearing community.
 
@@ -49,9 +49,10 @@ With over a decade of experience in the **Toronto and Vancouver Film & Televisio
 While the infrastructure is designed for evasion, the security layers are architected for absolute persistence and cryptographic integrity.
 
 #### **1. Identity & Database Integrity**
-* **Cryptographic Entombment:** User credentials and administrative access points are protected using **Argon2id**. This provides superior resistance to GPU-based brute-force and side-channel attacks compared to legacy hashing methods.
+* **Cryptographic Entombment:** User credentials and administrative access points are protected using **Argon2id**. This provides hardened resilience against GPU-based brute-force and side-channel attacks compared to legacy hashing methods.
 * **MFA Enforcement:** All administrative panels are strictly locked behind **TOTP (Time-based One-Time Password)** and mandatory IP-Whitelisting.
-* **Zero-Knowledge Reseller Logic:** Database queries are architected to prevent data leakage; if a manager is not correctly linked to a wholesaler, the system returns a null set rather than exposing infrastructure metadata.
+* **Zero-Knowledge Logic:** Database queries are architected to prevent data leakage; if a manager is not correctly linked to an oraganization, the system returns a null set rather than exposing infrastructure metadata. Equally, if a user and their session is not correctly linked to a manager and organizational ID, the sysyem returns a null set.
+* **Relational Entanglement** By entangling the session state with the organizational hierarchy at the query level, we ensure that session hijacking results in a 'Null-State' experience, rendering stolen credentials useless for data exfiltration
 
 #### **2. Transport & Obfuscation**
 * **The Ghost Pipe:** All internal traffic between the "Soul" (Main VPS) and the "Shell" (Shield Fleet) is encapsulated in **WireGuard** tunnels using **ChaCha20-Poly1305** for authenticated encryption.
