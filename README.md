@@ -37,11 +37,11 @@ With over a decade of experience in the **Toronto and Vancouver Film & Televisio
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Defensive Ops** | Wazuh SIEM, WireGuard, Nginx Reverse Proxies, Multi-Geo Shield Topology |
-| **Security Hardening** | Argon2id Hashing, AES-256-GCM, TLS 1.3, TOTP Multi-Factor Authentication |
-| **Virtualization** | RAM-only Linux Workstation Sessions, Windows RDP Browser-based Sessions |
-| **Analysis** | Wireshark, BurpSuite, ELK Stack, Sysmon, Zeek |
-| **Certifications** | ISC2 C|C, EC-Council E|HE, ASL (American Sign Language) |
+|**Defensive Ops:	Wazuh SIEM, WireGuard, Nginx Reverse Proxies, Multi-Geo Shield Topology**
+|**Full-Stack Dev:	PHP 8.x, MariaDB (Relational Entanglement), SQL, JavaScript**
+|**Virtualization:	Proxmox VE, VMware ESXi, Docker, x86-WASM, Windows/Linux Browser-based Sessions, Security**
+|**Analysis:	Wireshark, BurpSuite, ELK Stack, Sysmon, Zeek**
+|**Certifications: ISC2 C|C, EC-Council E|HE**
 
 ---
 
@@ -52,7 +52,8 @@ While the infrastructure is designed for evasion, the security layers are archit
 * **Cryptographic Entombment:** User credentials and administrative access points are protected using **Argon2id**. This provides hardened resilience against GPU-based brute-force and side-channel attacks compared to legacy hashing methods.
 * **MFA Enforcement:** All administrative panels are strictly locked behind **TOTP (Time-based One-Time Password)** and mandatory IP-Whitelisting.
 * **Zero-Knowledge Logic:** Database queries are architected to prevent data leakage; if a manager is not correctly linked to an oraganization, the system returns a null set rather than exposing infrastructure metadata. Equally, if a user and their session is not correctly linked to a manager and organizational ID, the sysyem returns a null set.
-* **Relational Entanglement** By entangling the session state with the organizational hierarchy at the query level, we ensure that session hijacking results in a 'Null-State' experience, rendering stolen credentials useless for data exfiltration
+* **Relational Entanglement:** By entangling the session state with the organizational hierarchy at the query level, we ensure that session hijacking results in a 'Null-State' experience, rendering stolen credentials useless for data exfiltration
+* **Argon2id Hashing, AES-256-GCM, TLS 1.3, TOTP Multi-Factor Authentication**
 
 #### **2. Transport & Obfuscation**
 * **The Ghost Pipe:** All internal traffic between the "Soul" (Main VPS) and the "Shell" (Shield Fleet) is encapsulated in **WireGuard** tunnels using **ChaCha20-Poly1305** for authenticated encryption.
