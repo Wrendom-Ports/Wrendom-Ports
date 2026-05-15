@@ -1,5 +1,5 @@
 # GHOST PORTS | Defensive Infrastructure & Architectural Intent
-**Chief Architect | Production Designer | Cybersecurity Professional**
+**Chief Architect | Production Designer | Cybersecurity Professional |**
 **ISC2 C|C | EC-Council E|HE**
 
 ---
