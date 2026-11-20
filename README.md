@@ -7,7 +7,11 @@ The Throughline
 
 I spent close to a decade in the Toronto and Vancouver film & TV industry (Fire Country, DC’s Legends of Tomorrow, and others) building physical environments convincing enough that no one watching could separate the real from the staged. That discipline — construct something “lived-in” enough to be indistinguishable from the genuine article — is the same instinct I now apply to defensive security architecture.
 
-The connection is deliberate, not incidental: the same design logic that makes a set believable is what makes a decoy system convincing enough to gather real threat intelligence, because an attacker can’t tell they’ve been redirected. Unlike infrastructure built to disappear or leave no trace, everything I design is built to preserve full visibility and telemetry — deception is the tool, not an excuse to go dark. A system you can’t see is a system you can’t defend; the goal is misleading the attacker while watching every move they make.
+The Methodology: Wave Function Collapse
+
+In quantum mechanics, a particle exists in superposition — every possible state at once — until it’s observed. The act of measurement is what collapses that superposition into one definite outcome. Ghost Ports applies this as a design principle, not a literal mechanism: the infrastructure an attacker is probing is never the thing they think they’re observing. Cross a defined threshold of recon, probing, or brute-force activity, and what’s being watched collapses into a decoy state — the attacker’s “measurement” resolves to a convincing fake, not the real system.
+
+The connection to production design is deliberate, not incidental: the same design logic that makes a set believable is what makes a decoy convincing enough to gather real threat intelligence, because an attacker can’t tell they’ve been redirected. Unlike infrastructure built to disappear or leave no trace, everything in this framework is built to preserve full visibility and telemetry on the real side — deception is the tool, not an excuse to go dark. A system you can’t see is a system you can’t defend; the goal is misleading the attacker while watching every move they make.
 
 Background
 
@@ -25,7 +29,7 @@ Fixed real-IP attribution gaps across a multi-service Docker Compose deployment 
 
 The Construct — a cybersecurity training platform (PWA) built end-to-end, including its flagship CMD+CTRL simulation for hands-on detection/incident-response practice.
 
-In Development: Deception-Based Early-Warning Tier — currently designing a sub-ban tier that redirects suspicious-but-not-yet-banned traffic to a decoy backend, gathering pure-signal threat intel while leaving existing hard-ban enforcement and full logging untouched. Explicitly marked not yet deployed.
+In Development: Wave Function Collapse — Deception-Based Early-Warning Tier — currently building the Wave Function Collapse methodology into a sub-ban tier that redirects suspicious-but-not-yet-banned traffic to a decoy backend, gathering pure-signal threat intel while leaving existing hard-ban enforcement and full logging untouched. Explicitly marked not yet deployed.
 
 Current Client Engagements — M.K. Bureautique (website build + ongoing SOC-style monitoring); prior IT support/hardening work (By The Blade, Apex Contracting).
 
