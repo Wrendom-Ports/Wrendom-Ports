@@ -1,7 +1,7 @@
 GHOST PORTS | Security Engineering Through a Production-Design Lens
 
 Founder | Security & Infrastructure Engineer | ISC2 C|C · EC-Council E|HE · CompTIA Security+ (In Progress) |
-Former Art Department Lead (Film & TV)
+Former Production Designer/Art Department (Film & TV)
 
 The Throughline
 
