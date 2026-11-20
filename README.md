@@ -1,71 +1,32 @@
-# GHOST PORTS | Defensive Infrastructure & Architectural Intent
-**Chief Architect | Production Designer | Cybersecurity Professional |**
-**ISC2 C|C | EC-Council E|HE**
+GHOST PORTS | Security Engineering Through a Production-Design Lens
 
----
+Founder | Security & Infrastructure Engineer | Former Production Designer (Film & TV)
+ISC2 C|C · EC-Council E|HE · CompTIA Security+ (In Progress)
 
-### 🛡️ The Doctrine: Ghost Pipe & The Wave Function
-> *"If you can't see it, you can't hit it. If you hit it, it's already gone."*
+The Throughline
 
-I treat infrastructure as a **"Wave Function."** In my architecture, a system exists in a state of potential until authorized; upon unauthorized interaction or "observation," the field collapses and re-materializes at a new digital coordinate.
+I spent close to a decade in the Toronto and Vancouver film & TV industry (Fire Country, DC’s Legends of Tomorrow, and others) building physical environments convincing enough that no one watching could separate the real from the staged. That discipline — construct something “lived-in” enough to be indistinguishable from the genuine article — is the same instinct I now apply to defensive security architecture.
 
-* **Sub-second MTTR:** Orchestrating an infrastructure with a **Mean Time To Recovery (MTTR) of <1s**.
-* **Rapid Spawn Cycles:** Leveraging high-speed state injections for sub-second persistence. The workspace is everywhere, and nowhere.
-* **Sovereign VDI:** Architecting remote compute environments for the workplace that materialize on-demand and leave zero forensic footprint upon session termination.
-* **Moving Target Defense (MTD):** Infrastructure signature redaction (T1595) and automated multi-node rotation to ensure the target is never a static coordinate.
+The connection is deliberate, not incidental: the same design logic that makes a set believable is what makes a decoy system convincing enough to gather real threat intelligence, because an attacker can’t tell they’ve been redirected. Unlike infrastructure built to disappear or leave no trace, everything I design is built to preserve full visibility and telemetry — deception is the tool, not an excuse to go dark. A system you can’t see is a system you can’t defend; the goal is misleading the attacker while watching every move they make.
 
----
+Background
 
-### 🎬 Professional Convergence: Design Meets Defense
-With over a decade of experience in the **Toronto and Vancouver Film & Television** industries, a rich history in Information Technology and an Honours Associates Degree in **American Sign Language & Deaf Culture**, I apply cinematic world-building and spatial linguistics to the frontier of cybersecurity.
+Decade+ in Toronto/Vancouver film & television production — set build-out, equipment logistics, and team coordination in high-pressure, fixed-deadline environments.
+Honours Associate’s Degree in American Sign Language & Deaf Studies (George Brown College); ASL fluency applied through Hands United, volunteer technical tutoring for the Deaf and Hard of Hearing community.
+ISC2 Certified in Cybersecurity; EC-Council Ethical Hacking Essentials; currently studying toward CompTIA Security+.
 
-* **Structural Intent:** I approach network architecture as a Production Designer—viewing digital environments through the lens of spatial flow, boundary logic, and environmental storytelling. True security is found in the deliberate arrangement of every node and port.
-* **Adversarial Resilience:** A career built in high-pressure, fixed-deadline environments (*Fire Country, DC's Legends of Tomorrow*, & others.) where rapid pivots are the standard, timelines are non-negotiable, and failure is not an option.
-* **Spatial Mapping:** My background provides a unique cognitive edge in architectural visualization. I map network topologies and "Ghost Pipe" infrastructure as 3D environments, allowing for a deeper understanding of multi-dimensional defense and data flow.
-* **Cross-Cultural Communication:** Experience in community tutoring has honed a unique ability to bridge complex communication gaps—translating high-level technical concepts into clear, inclusive, and accessible narratives for stakeholders.
+What I Build
 
----
+Security & Detection Engineering
 
-### 📡 Current Operations
-* **The Ghost Ports Collective:** Founding a boutique collective of InfoSec professionals who are passionate about creating invisible, secure, & private, architectures. Ephemeral, Persistent, Compute. Everywehre. Nowhere.
-* **The Construct:** Engineering a City of Toronto mapped network topology for narrative-driven, high-fidelity defensive training, utilizing the popular urban city landscape as visual 3D Anchors
-* **Hands United:** Leveraging **ASL fluency** to provide volunteer technical tutoring for the Deaf and Hard of Hearing community.
+Deployed and maintain a Wazuh SIEM, including root-causing and fixing a rule-matching defect that was silently preventing custom detections from firing.
+Built and operate an automated, API-driven threat-response pipeline using CrowdSec’s community threat-intelligence feed integrated with a Cloudflare Workers-based bouncer, operationalizing real-time IP-based enforcement at the edge without manual intervention.
+Fixed real-IP attribution gaps across a multi-service Docker Compose deployment (custom Nginx and gunicorn logging) so SIEM correlation reflects actual client IPs rather than internal proxy addresses.
 
----
+The Construct — a cybersecurity training platform (PWA) built end-to-end, including its flagship CMD+CTRL simulation for hands-on detection/incident-response practice.
 
-### 🛠️ The Tactical Stack
+In Development: Deception-Based Early-Warning Tier — currently designing a sub-ban tier that redirects suspicious-but-not-yet-banned traffic to a decoy backend, gathering pure-signal threat intel while leaving existing hard-ban enforcement and full logging untouched. Explicitly marked not yet deployed.
 
-| Domain | Technologies |
-| :--- | :--- |
-|**Defensive Ops** |	Wazuh SIEM, WireGuard, Nginx Reverse Proxies, Multi-Geo Shield Topology |
-|**Full-Stack Dev** |	PHP 8.x, MariaDB (Relational Entanglement), SQL, JavaScript |
-|**Virtualization** |	Proxmox VE, VMware ESXi, Docker, x86-WASM, Windows/Linux Browser-based Sessions, Security |
-|**Analysis** | Wireshark, BurpSuite, ELK Stack, Sysmon, Zeek |
-|**Certifications** | ISC2 CC, EC-Council EHE | 
+Current Client Engagements — M.K. Bureautique (website build + ongoing SOC-style monitoring); prior IT support/hardening work (By The Blade, Apex Contracting).
 
----
-
-### 🔒 Security Implementation & Hardening
-While the infrastructure is designed for evasion, the security layers are architected for absolute persistence and cryptographic integrity.
-
-#### **1. Identity & Database Integrity**
-* **Cryptographic Entombment:** User credentials and administrative access points are protected using **Argon2id**. This provides hardened resilience against GPU-based brute-force and side-channel attacks compared to legacy hashing methods.
-* **MFA Enforcement:** All administrative panels are strictly locked behind **TOTP (Time-based One-Time Password)** and mandatory IP-Whitelisting.
-* **Zero-Knowledge Logic:** Database queries are architected to prevent data leakage; if a manager is not correctly linked to an oraganization, the system returns a null set rather than exposing infrastructure metadata. Equally, if a user and their session is not correctly linked to a manager and organizational ID, the sysyem returns a null set.
-* **Relational Entanglement:** By entangling the session state with the organizational hierarchy at the query level, we ensure that session hijacking results in a 'Null-State' experience, rendering stolen credentials useless for data exfiltration.
-* **Argon2id Hashing, AES-256-GCM, TLS 1.3, TOTP Multi-Factor Authentication**
-
-#### **2. Transport & Obfuscation**
-* **The Ghost Pipe: All internal traffic between the "Soul" (Main VPS) and the "Shell" (Shield Fleet) is encapsulated in **WireGuard** tunnels using **ChaCha20-Poly1305** for authenticated encryption**.
-* **Signature Redaction:** Automated stripping of Nginx `Server` and `X-Powered-By` headers to mitigate reconnaissance and fingerprinting (T1595).
-* **TLS 1.3 Strictness:** Public egress points are locked to TLS 1.3 with **ECDHE** to ensure Perfect Forward Secrecy (PFS).
-
-#### **3. Active Defense (The "Lurker" Protocol)**
-* **Real-time SIEM Integration: Shield nodes ship all telemetry (Auth, Syslog, Web) to an off-site **Wazuh** manager for immediate correlation**.
-* **The Sentinel UBA:** Proprietary environmental integrity monitor that detects unauthorized "observation" or kernel-level tampering, triggering a defensive posture before exfiltration can occur.
-* **Morpheus Orchestration:** Custom engine that facilitates Dynamic Field Collapse. If a node detects targeted brute-force or SQLi attempts, Morpheus terminates the compromised "Shell" and will re-materializes the egress on a fresh IP in <1s.
-
----
-
-
-*© 2026 Ghost Ports Collective. All Rights Reserved.*
+Stack: Wazuh · CrowdSec · Cloudflare Workers/KV · WireGuard · Nginx · Python/PowerShell/Bash · Docker Compose · systemd · Linux
