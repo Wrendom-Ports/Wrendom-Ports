@@ -12,7 +12,7 @@ The connection is deliberate, not incidental: the same design logic that makes a
 Background
 
 Decade+ in Toronto/Vancouver film & television production — set build-out, equipment logistics, and team coordination in high-pressure, fixed-deadline environments.
-Honours Associate’s Degree in American Sign Language & Deaf Studies (George Brown College); ASL fluency applied through Hands United, volunteer technical tutoring for the Deaf and Hard of Hearing community.
+Honours Certificate in American Sign Language & Deaf Studies (George Brown College); ASL fluency applied through Hands United, volunteer technical tutoring for the Deaf and Hard of Hearing community.
 ISC2 Certified in Cybersecurity; EC-Council Ethical Hacking Essentials; currently studying toward CompTIA Security+.
 
 What I Build
