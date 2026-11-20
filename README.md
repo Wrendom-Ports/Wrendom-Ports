@@ -1,7 +1,7 @@
 GHOST PORTS | Security Engineering Through a Production-Design Lens
 
-Founder | Security & Infrastructure Engineer | Former Art Department Lead (Film & TV)
-ISC2 C|C · EC-Council E|HE · CompTIA Security+ (In Progress)
+Founder | Security & Infrastructure Engineer | ISC2 C|C · EC-Council E|HE · CompTIA Security+ (In Progress) |
+Former Art Department Lead (Film & TV)
 
 The Throughline
 
@@ -16,7 +16,7 @@ The connection to production design is deliberate, not incidental: the same desi
 Background
 
 Decade+ in Toronto/Vancouver film & television production — set build-out, equipment logistics, and team coordination in high-pressure, fixed-deadline environments.
-Honours Certificate in American Sign Language & Deaf Studies (George Brown College); ASL fluency applied through Hands United, volunteer technical tutoring for the Deaf and Hard of Hearing community.
+Honours Certificate in American Sign Language & Deaf Studies (George Brown College). Reaching fluency in a signed language means tracking grammar that lives in physical space — classifiers, spatial verb agreement, and multiple referents held and manipulated simultaneously in three-dimensional signing space. That’s sustained, demanding practice at holding spatial and relational structures in your head, and it maps directly onto visualizing network topology, multi-node architecture, and traffic flow. Applied through Hands United, volunteer technical tutoring for the Deaf and Hard of Hearing community.
 ISC2 Certified in Cybersecurity; EC-Council Ethical Hacking Essentials; currently studying toward CompTIA Security+.
 
 What I Build
@@ -25,11 +25,11 @@ Security & Detection Engineering
 
 Deployed and maintain a Wazuh SIEM, including root-causing and fixing a rule-matching defect that was silently preventing custom detections from firing.
 Built and operate an automated, API-driven threat-response pipeline using CrowdSec’s community threat-intelligence feed integrated with a Cloudflare Workers-based bouncer, operationalizing real-time IP-based enforcement at the edge without manual intervention.
-Fixed real-IP attribution gaps across a multi-service Docker Compose deployment (custom Nginx and gunicorn logging) so SIEM correlation reflects actual client IPs rather than internal proxy addresses.
+Real-IP attribution gaps across a multi-service Docker Compose deployment (custom Nginx and gunicorn logging) so SIEM correlation reflects actual client IPs rather than internal proxy addresses.
 
 The Construct — a cybersecurity training platform (PWA) built end-to-end, including its flagship CMD+CTRL simulation for hands-on detection/incident-response practice.
 
-In Development: Wave Function Collapse — Deception-Based Early-Warning Tier — currently building the Wave Function Collapse methodology into a sub-ban tier that redirects suspicious-but-not-yet-banned traffic to a decoy backend, gathering pure-signal threat intel while leaving existing hard-ban enforcement and full logging untouched. Explicitly marked not yet deployed.
+In Development: Wave Function Collapse — Deception-Based Early-Warning Tier — building the methodology into a sub-ban tier that redirects suspicious-but-not-yet-banned traffic to a decoy backend, gathering pure-signal threat intel while leaving existing hard-ban enforcement and full logging untouched. Currently in design; not yet deployed.
 
 Current Client Engagements — M.K. Bureautique (website build + ongoing SOC-style monitoring); prior IT support/hardening work (By The Blade, Apex Contracting).
 
