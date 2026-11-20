@@ -31,6 +31,6 @@ The Construct — a cybersecurity training platform (PWA) built end-to-end, incl
 
 In Development: Wave Function Collapse — Deception-Based Early-Warning Tier — building the methodology into a sub-ban tier that redirects suspicious-but-not-yet-banned traffic to a decoy backend, gathering pure-signal threat intel while leaving existing hard-ban enforcement and full logging untouched. Currently in design; not yet deployed.
 
-Current Client Engagements — M.K. Bureautique (website build + ongoing SOC-style monitoring); prior IT support/hardening work (By The Blade, Apex Contracting).
+Current Client Engagements — M.K. Bureautique (website build + ongoing SOC-style monitoring); Prior - By The Blade, Apex Contracting(IT Support/Systems Hardening)
 
 Stack: Wazuh · CrowdSec · Cloudflare Workers/KV · WireGuard · Nginx · Python/PowerShell/Bash · Docker Compose · systemd · Linux
