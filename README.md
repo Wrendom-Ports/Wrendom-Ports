@@ -6,7 +6,7 @@
 
 ## The Throughline
 
-For close to a decade, I was building two things at once. By day, in the Toronto and Vancouver film & TV industry (*Fire Country*, *DC's Legends of Tomorrow*, and others), I built physical environments convincing enough that no one watching could separate the real from the staged. In parallel, off set, I was doing the same restless work on my own systems — standing up networks, breaking them, rebuilding them, tearing down what didn't work and starting again. Ghost Ports isn't a pivot away from one discipline into another; it's the formalization of a track that was already running the whole time, now with the production-design instinct and the systems instinct fused into one practice.
+For close to a decade, I was building two things at once. By day, in the Toronto and Vancouver film & TV industry (*Fire Country*, *DC's Legends of Tomorrow*, and others), I built physical environments convincing enough that no one watching could separate the real from the staged. In parallel, off set, I was doing the same restless work on my own systems — standing up networks, breaking them, rebuilding them, tearing down what didn't work and starting again. Ghost Ports isn't a pivot away from one discipline into another; it's the formalization on a track that has been running this whole time, now with the production-design instinct and the systems instinct fused into one practice.
 
 ---
 
